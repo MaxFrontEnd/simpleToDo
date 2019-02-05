@@ -1,0 +1,22 @@
+{
+  "name": "simpletodo",
+  "version": "1.0.0",
+  "description": "Forget not",
+  "main": "index.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MaxFrontEnd/simpleToDo.git"
+  },
+  "author": "Max Samohvalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxFrontEnd/simpleToDo/issues"
+  },
+  "homepage": "https://github.com/MaxFrontEnd/simpleToDo#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
